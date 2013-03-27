@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">blackbox</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_blackbox_res_raw_fly_mp3">/blackbox/res/raw/fly.mp3</string>
+
+</resources>
