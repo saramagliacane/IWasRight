@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">blackbox</string>
+    <string name="app_name">IWasRight</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="_blackbox_res_raw_fly_mp3">/blackbox/res/raw/fly.mp3</string>
+    <string name="quarreling_button">I\'M QUARRELING!</string>
+    <string name="feedback_button">FEEDBACK</string>
 
 </resources>
